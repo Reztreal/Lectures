@@ -1,6 +1,6 @@
 ## Faunus Hospital Management System V2.0 BETA
 
-This is a hospital management program.
+This is a hospital management program. In the "extras" directory, you can find UML and JAVADOC.
 
 
 ### Screenshots :
@@ -15,10 +15,10 @@ Not available yet.
 <!--```
 ![Save new member](https://github.com/furkantokac/Freg/blob/master/docs/ss/FregV1.5_1.png)
 ```-->
-
+9
 ### Deployment
 
-Not available yet. <!--1) java -jar ./bin/FaunusHospitalManagementSystemV2.0.jar-->
+1) java -jar ./bin/FaunusHospitalManagementSystemV2.0.jar
 
 
 ### Development Tools
